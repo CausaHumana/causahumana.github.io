@@ -7,7 +7,7 @@
 
 theme			 : "minimal-mistakes-jekyll"
 #Local theme used for local tests
-theme			 : "minimal-mistakes-jekyll"
+#theme			 : "minimal-mistakes-jekyll"
 
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -76,9 +76,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "causahumana"
+  username               : &twitter ""
 facebook:
-  username               : &facebook ""
+  username               : &facebook "grupocausahumana"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/serrasagrada.jpg" # Open Graph/Twitter default site image
