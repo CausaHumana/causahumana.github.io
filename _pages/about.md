@@ -7,7 +7,7 @@ toc: true
 ---
 > A group of studies focused on scientific and social causes
 
-## A simple group of studies
+## About Us - Causa Humana group of studies
 
 Grupo da Causa Humana is a group idealized by researchers,
 professor and friends, which study and discuss ideas in a health, peaceful and sustainable environment.

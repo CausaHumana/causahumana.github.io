@@ -4,49 +4,80 @@ title: "Contributors"
 layout: splash
 date: 2018-06-04T12:04:24-04:00
 intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-feature_row1:
-  - image_path: /assets/images/contributors/salsa.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    width: "158px"
-    padding: 10px;
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/contributors/mokoko.jpg
-    image_caption: "Guilherme Mokoko Blaster [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/contributors/glauboy.jpg
-    width: "100"
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
+  - excerpt: 'Out team'
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row width="100px" id="feature_row1" %}
-
-<p float="left">
-  <img src="/assets/images/contributors/mokoko.jpg" width="100" />
-  <img src="/assets/images/contributors/mokoko.jpg" width="100" />
-  <img src="/assets/images/contributors/mokoko.jpg" width="100" />
-</p>
-
-
-<figure style="width: 150px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/contributors/mokoko.jpg" alt="">
+<figure style="width: 350px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/contributors/bruno.jpg" alt="">
   <figcaption>Itty-bitty caption.</figcaption>
-  <url>#test-link</url>
-    <btn_label>test-link</btn_label>
+  <h3>Bruno Nazário Coelho</h3>
+  <a href="#" class="btn btn--primary">Link Text</a>
 </figure>
+<figure style="width: 350px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/contributors/cecelus.jpg" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+  <h3>Marcelo Versiane</h3>
+  <a href="#" class="btn btn--primary">Link Text</a>
+</figure>
+<figure style="width: 350px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/contributors/daltonCesar.jpg" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+  <h3>Dalton César</h3>
+  <a href="#" class="btn btn--primary">Link Text</a>
+</figure>
+
+<figure style="width: 350px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/contributors/glauboy.jpg" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+  <h3>Glauber Cardoso</h3>
+  <a href="#" class="btn btn--primary">Link Text</a>
+</figure>
+<figure style="width: 350px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/contributors/igor.jpg" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+  <h3>Igor Machado Coelho</h3>
+  <a href="#" class="btn btn--primary">Link Text</a>
+</figure>
+<figure style="width: 350px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/contributors/le.jpg" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+  <h3>Alexandre Costa Barbosa</h3>
+  <a href="#" class="btn btn--primary">Link Text</a>
+</figure>
+
+<figure style="width: 350px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/contributors/rapha.jpg" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+  <h3>Raphael Camargo</h3>
+  <a href="#" class="btn btn--primary">Link Text</a>
+</figure>
+<figure style="width: 350px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/contributors/salsa.jpg" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+  <h3>Alysson Alves</h3>
+  <a href="#" class="btn btn--primary">Link Text</a>
+</figure>
+<figure style="width: 350px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/contributors/salsa.jpg" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+  <h3>Alex de Paula Figueiredo</h3>
+  <a href="#" class="btn btn--primary">Link Text</a>
+</figure>
+
+<figure style="width: 350px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/contributors/thays.jpg" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+  <h3>Thays Aparecida de Oliveira</h3>
+  <a href="#" class="btn btn--primary">Link Text</a>
+</figure>
+<figure style="width: 350px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/contributors/vncoelho.jpg" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+  <h3>Vitor Nazário Coelho</h3>
+  <a href="#" class="btn btn--primary">Link Text</a>
+</figure>
+
+
+{% include feature_row width="100px" id="feature_row1" %}
